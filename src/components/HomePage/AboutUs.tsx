@@ -2,7 +2,7 @@ import React from "react";
 
 const AboutUs = () => {
   return (
-    <div className="container-custom flex flex-col lg:flex-row items-center py-28 gap-12">
+    <div className="container-custom flex flex-col lg:flex-row items-center py-28 gap-12 border-b border-[#262626]">
       {/* Left Content */}
       <div>
         <h1 className="text-4xl lg:text-5xl font-bold leading-tight text-white mb-6">
