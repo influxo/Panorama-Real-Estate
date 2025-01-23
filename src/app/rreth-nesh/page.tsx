@@ -1,9 +1,12 @@
+import Hero from "@/components/AboutPage/Hero";
 import React from "react";
 
 const page = () => {
   return (
     <div>
-      <h1>Rreth Nesh</h1>
+      <div>
+        <Hero />
+      </div>
     </div>
   );
 };
