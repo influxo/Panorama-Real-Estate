@@ -5,7 +5,7 @@ import heroLines from "../../../public/images/static/HeroLines.svg";
 
 const Hero = () => {
   return (
-    <div className="w-full text-white relative">
+    <div className="w-full text-white relative border-b border-[#262626]">
       <div className="container-custom-left">
         <div className="flex flex-col lg:flex-row items-center justify-between">
           {/* Left Content */}
